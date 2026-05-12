@@ -65,7 +65,7 @@ O modelo final melhorou a maioria das métricas, com exceção do Recall — que
 - Na análise de importância, as variáveis mais relevantes foram **V14 e V10**.
 - Já na análise local com **SHAP Values**, a variável **V4** teve grande influência nas previsões, indicando que, embora não seja a mais usada nas árvores, ela participa fortemente das interações e decisões do modelo.
 
-![shap values](imagens/shap.png)
+![shap values](imagens/shap_values.png)
 
 ---
 
